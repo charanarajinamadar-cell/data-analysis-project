@@ -1,0 +1,4 @@
+Model Accuracy: 0.75
+Cricket → OUTDOOR
+Chess → INDOOR
+Swimming → INDOOR
